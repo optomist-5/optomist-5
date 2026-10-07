@@ -1,14 +1,11 @@
 # Hi, I'm Matt Quijada 👋
 ### Threat Detection Analyst | SecOps & KQL | Cloud Security & IAM | Ex-RN Risk Lead
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/matt-quijada)
-[![Location](https://img.shields.io/badge/Location-Seattle%2C%20WA-red?style=flat)](https://maps.google.com/?q=Seattle,WA)
-[![Degree](https://img.shields.io/badge/BS-Cybersecurity%20%26%20Information%20Assurance%20(ABET%2FCAE--CD)-green?style=flat)](https://www.wgu.edu)
+[LinkedIn](https://linkedin.com) | [Location: Remote / WA] | [Degree: B.S. Cybersecurity]
 
 ---
 
-## 🩺 The Clinical Advantage: BSN/MSN Telemetry Alarm Fatigue to SOC Alert Fidelity
-I am a **Cybersecurity & Threat Detection Analyst** transitioning from over 6 years of high-stakes clinical leadership, hospital incident command, and clinical risk management. 
+## 🩺 The Clinical Advantage: Telemetry Alarm Fatigue to SOC Alert Fidelity
+I am a Cybersecurity & Threat Detection Analyst transitioning from over 6 years of high-stakes clinical leadership, hospital incident command, and clinical risk management.
 
 - **Solving Alert Fatigue:** In my MSN leadership and clinical research, I designed and scaled evidence-based protocols to eliminate **cardiac telemetry alarm fatigue** across hospital units—preventing clinician burnout and ensuring critical events were never missed.
 - **Direct SOC Application:** In a Security Operations Center (SOC), the crisis is identical. Analysts face thousands of low-fidelity SIEM/EDR alerts daily. I bring an established clinical triage framework to threat detection: tuning baseline noise, prioritizing high-severity anomalies, and conducting rapid Root Cause Analysis (RCA) under pressure.
