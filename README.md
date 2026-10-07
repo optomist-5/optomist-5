@@ -42,11 +42,11 @@ I am a Cybersecurity & Threat Detection Analyst transitioning from over 6 years 
 
 ## 🔬 Featured Portfolio Labs & Projects
 
-- 🛡️ [**Multi-Cloud Zero-Trust IAM & Tenant Hardening Architecture**](https://github.com/optomist-5/secops-sentinel-platform): Deployed an air-gapped **3-Account Privilege Isolation Matrix** across Entra ID, Azure, GCP, and Google Workspace. Enforced strict segregation of duties, zero-mailbox administrative segregation, and tenant-wide generative AI privacy controls.
+- 🛡️ [**Multi-Cloud Zero-Trust IAM & Tenant Hardening Architecture**](https://github.com/optomist-5/secops-sentinel-platform#architecture--subsystems): Deployed an air-gapped **3-Account Privilege Isolation Matrix** across Entra ID, Azure, GCP, and Google Workspace. Enforced strict segregation of duties, zero-mailbox administrative segregation, and tenant-wide generative AI privacy controls.
 - ⚙️ [**Native macOS Living-off-the-Land (LotL) Security Engine**](https://github.com/optomist-5/secops-sentinel-platform): Developed native macOS socket auditing (`lsof`), dynamic `pfctl` packet filter network isolation rules, script immutability mechanics (`chmod 555`), and persistent `launchd` audit watchdogs.
-- ☁️ [**Cloud Network Forensics & KQL Detection Engineering Lab**](https://github.com/optomist-5/pcap-auto-sampler): Active multi-cloud threat detection laboratory analyzing cloud telemetry and authoring production-grade KQL queries in Azure Sentinel.
-- 📡 [**Automated PCAP Ingestion & AI Threat Analysis Pipeline**](https://github.com/optomist-5/pcap-auto-sampler): Automated Python Scapy network traffic ingestion pipeline with root crontab scheduling, AI-assisted threat analysis, and Tshark log parsing.
-- 🛡️ [**macOS Endpoint Threat Hunt**](https://github.com/optomist-5/pcap-auto-sampler/blob/main/LAB2_ENDPOINT_THREAT_HUNT.md): EDR socket audit, process lineage correlation (`lsof`/`ps`), and OS integrity verification (SIP/Gatekeeper/FileVault).
+- 🔬 [**Incident Retrospective: IPS Alert Storm & Allowlist Tuning**](https://github.com/optomist-5/secops-sentinel-platform/blob/main/docs/cert_labs/LAB_ALERT_STORM_TRIAGE.md): Detailed technical post-mortem analyzing an automated kill-and-respawn cascade caused by `launchd` supervision, and the engineering of process allowlists and cooldown lockfiles to eliminate alert fatigue.
+- 🛡️ [**macOS Endpoint Threat Hunt (Lab 2)**](https://github.com/optomist-5/secops-sentinel-platform/blob/main/docs/cert_labs/LAB2_ENDPOINT_THREAT_HUNT.md): EDR socket audit, process lineage correlation (`lsof`/`ps`), and OS integrity verification (SIP/Gatekeeper/FileVault).
+- ☁️ [**Cloud Network Forensics & Automated PCAP Pipeline**](https://github.com/optomist-5/pcap-auto-sampler): Automated Python Scapy network traffic ingestion pipeline with root crontab scheduling, AI-assisted threat analysis, and Tshark log parsing.
 
 ---
 
